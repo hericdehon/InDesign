@@ -7,7 +7,6 @@ Aqui estão disponíveis 'queries' (buscas usando GREP) e Scripts criados para I
 - O arquivo 'REMOVER ESPACOS NO FIM DO PARAGRAFO.xml' remove os espaços que ficam depois do ponto final.
 
 Veja no final o caminho de onde os arquivos devem ser salvos.
-===
 
 Se tiver dúvidas ou encontrou erros, chame.
 Se encontrar uma solução melhor que a minha, avise.
@@ -23,7 +22,6 @@ Here are available 'ueries' and Scripts for Indesign. It´s all free. Download, 
 - The file 'REMOVE SPACES AT THE END OF PARAGRAPH.xml' removes spaces after the period.
 
 See the path at the end where the files should be saved.
-===
 
 If you have questions or found errors, message me.
 If you find a better solution than mine, let me know.
@@ -39,7 +37,6 @@ Aquí están disponibles 'Consultas' (búsquedas usando GREP) y Scripts creados 
 - El archivo 'QUITAR ESPACIOS AL FINAL DEL PÁRRAFO.xml' elimina los espacios después del punto.
 
 Vea la ruta al final donde se deben guardar los archivos.
-===
 
 Si tienes preguntas o encuentras errores, llámame.
 Si encuentra una solución mejor que la mía, hágamelo saber.
