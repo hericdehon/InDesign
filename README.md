@@ -1,6 +1,6 @@
 # Indesign Queries e Scripts.
 [PT-BR]
-Aqui estão dispiníveis Queries (buscas usando GREP) e Scripts criados para Indesign.
+Aqui estão disponíveis Queries (buscas usando GREP) e Scripts criados para Indesign.
 Tudo aqui é livre. Baixe, use e modifique como quiser.
 
 Se tiver dúvidas ou encontrou erros, chame.
@@ -16,7 +16,7 @@ Bom trabalho! Obrigado.
 //////////
 
 [EN]
-Here are available Queries (searches using GREP) and Scripts created for Indesign.
+Here are available Queries and Scripts for Indesign.
 Everything is free. Download, use and modify however you want.
 
 If you have questions or found errors, message me.
