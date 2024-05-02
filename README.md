@@ -6,7 +6,7 @@ Aqui estão disponíveis 'queries' (buscas usando GREP) e Scripts criados para I
 - O arquivo 'VARIOS E DIFERENTES ESPACOS POR ESPACO SIMPLES.xml' procura quaisquer espaços que não sejam espaços simples e converte para espaço simples. Além disso, converte qualquer sequência de espaços para um único espaço simples.
 - O arquivo 'REMOVER ESPACOS NO FIM DO PARAGRAFO.xml' remove os espaços que ficam depois do ponto final.
 
-Veja no final o caminho de onde os arquivos devem ser salvos. Em anexo um vídeo de demonstração.
+Veja, no final dessa descrição, o caminho onde os arquivos devem ser salvos. Em anexo um vídeo de demonstração.
 
 Se tiver dúvidas ou encontrou erros, chame.
 Se encontrar uma solução melhor que a minha, avise.
@@ -21,7 +21,7 @@ Here are available 'ueries' and Scripts for Indesign. It´s all free. Download, 
 - The file 'VARIOUS AND DIFFERENT SPACES BY SIMPLE SPACE.xml' looks for any spaces that are not single spaces and converts them to single spaces. Additionally, it converts any sequence of spaces to a single simple space.
 - The file 'REMOVE SPACES AT THE END OF PARAGRAPH.xml' removes spaces after the period.
 
-See the path at the end where the files should be saved. Attached is a demonstration video.
+See, at end of readme, the path where files should be saved. Attached is a demonstration video.
 
 If you have questions or found errors, message me.
 If you find a better solution than mine, let me know.
